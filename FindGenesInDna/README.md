@@ -15,7 +15,7 @@ this program take dna string find ATG in String as start codon and return all th
  
  Program takes text file as input which has the DNA string and perform operation on String it contains, It only work with DNA Strings which contains Gene codons made of letter A, C, G, T and the String will look like ("ACTTCAATAATGGTATAATGATCAATGTAA") or ("acgtgaatggaatagtgaataatgtag").
  
- Program will print All the Gene Strings and retur an String array it also contains other methods which can be helpful by changing them according the requirment.
+ Program will print All the Gene Strings and return a String array it also contains other methods which can be helpful by changing them according to requirment.
 
 
 ## Note : 
